@@ -1,0 +1,25 @@
+segment_sources:
+  P212D3F85:
+    type: origin_type
+    relation: translation
+    language: en
+  P84CF83D0:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  67ac369c858248d6857d729de88610d3:
+    P212D3F85: 69320b9f914340569674eac36fa794b8
+    P84CF83D0: 3651eea8d39d4f96a803085575799005
+  657fddb74c3743f49ad456e0498732ba:
+    P212D3F85: 9baf36841a374144989df1fe77d0d801
+    P84CF83D0: 51ece18f55654df59513137c4a7b8406
+  0b463f79c3534a37930351a7a7ce20ee:
+    P212D3F85: 9f1c714d99b24baf89bd324ec02dedc7
+    P84CF83D0: c2cd1433683540af886bfc4343b2a52f
+  907cdb10d6e84b04b6bfdd16689c3da9:
+    P212D3F85: 5f061840ab194447acf21285ca924aa6
+    P84CF83D0: fb8d4db0593042a5986d9db2a577b431
+  fe2a8f8adac24909b90621a6539ac2ca:
+    P212D3F85: e5a8a102698f48259002bb583e3cda6e
+    P84CF83D0: bd655e325dcc49d8b63c2a86fc607d3f
